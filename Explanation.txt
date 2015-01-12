@@ -1,0 +1,13 @@
+Life.matlab is the first step of the Conway's Game of Life simulation, it creates an NxN matrix and allows the user 
+to choose which cells are "alive" (1) and which cells are "dead" (0).
+LifeMatrix.matlab is the next step, it progresses the game.
+
+AcronymExpander.cpp reads a sentence with acronyms and converts the acronym into the "expanded" text. 
+hello lol ==> hello laugh out loud
+It requires the list of acronyms and expanded text in acronyms.txt
+
+PopulationSimulator.py models a population in which couples keep having children until they have a boy, and then they
+stop having children. After 1000 children are born, it shows the ratio between boys and girls.
+
+Volume Calculator.cpp finds a value for the maximum dimensions of three dimensional objects with a given volume. 
+Cylinder and cone are assumed to have equal radius and height.
