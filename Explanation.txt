@@ -11,3 +11,6 @@ stop having children. After 1000 children are born, it shows the ratio between b
 
 Volume Calculator.cpp finds a value for the maximum dimensions of three dimensional objects with a given volume. 
 Cylinder and cone are assumed to have equal radius and height.
+
+ISBNchecker.cpp takes a 10-digit number and checks to see if it's a valid ISBN. *Work in progress*
+*http://www.reddit.com/r/dailyprogrammer/comments/2s7ezp/20150112_challenge_197_easy_isbn_validator/*
