@@ -17,3 +17,6 @@ ISBNchecker.cpp takes a 10-digit number and checks to see if it's a valid ISBN. 
 
 quoteQuiz.cpp takes a list of seven quotes from quotes.txt and a list of 25 authors from authors.txt, and runs a short 
 seven-question quiz game on the author associated with the quote.
+
+bankNumber.cpp takes 9-digit integers from bankNumber.txt and converts them to "banner format"
+http://www.reddit.com/r/dailyprogrammer/comments/2tr6yn/2015126_challenge_199_bank_number_banners_pt_1/
